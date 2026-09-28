@@ -29,3 +29,5 @@ table = bigquery.Table(table_id, schema=schema)
 # Create Table
 table = client.create_table(table, exists_ok=True)
 print(f"Table '{table.table_id}' created successfully inside '{dataset.dataset_id}'.")
+print(f"Table '{table.table_id}' created successfully inside '{dataset.dataset_id}'.")
+# code done
