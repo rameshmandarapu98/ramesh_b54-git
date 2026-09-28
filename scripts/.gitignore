@@ -1,0 +1,13 @@
+venv/
+.cache/
+.config/
+.gsutil/
+.ssh/
+../.bash_history
+../.bash_logout
+../.bashrc
+../.boto
+../.gitconfig
+../.lesshst
+../.profile
+../.viminfo
